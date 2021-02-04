@@ -1,0 +1,8 @@
+.imagesContainer{
+    height:400px;
+    margin:5px;
+    display:flex;
+    overflow-x:scroll;
+    align-items:center;
+    
+}
